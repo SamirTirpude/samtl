@@ -6,6 +6,7 @@ public class HiiSam {
 		System.out.println("hii");
 		System.out.println("byy");
 		System.out.println("samir");
+		System.out.println("hello");
 	}
 
 }
